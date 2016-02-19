@@ -1,5 +1,6 @@
 # db_liquibase_sample
 
+This is an easy example how to create database migrations with [Liquibase](http://www.liquibase.org/).
 clean compile liquibase:update
 
 
